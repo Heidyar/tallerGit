@@ -1,0 +1,21 @@
+Algoritmo miPrimeraApp
+	Definir nombre Como caracter; 
+	Definir apellido Como caracter;
+	Definir edad Como Entero;
+	Definir estatura Como Real;
+	
+	Escribir "nombre";
+	Leer nombre;
+	
+	Escribir "apellido";
+	Leer apellido;
+	
+	Escribir "edad";
+	Leer edad;
+	
+	Escribir "estatura";
+	Leer estatura;
+	
+	Escribir  " Hola," ,nombre," ",apellido, ",tu edad es," ,edad, ",tu estatura es, ",estatura;
+	   
+FinAlgoritmo
